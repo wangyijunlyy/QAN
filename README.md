@@ -1,1 +1,1 @@
-# QAN: Quantum Analysis Networks with Powerful Periodic Feature Extraction Capabilities
+# Quantum Analysis Networks for Time Series Forecasting: Leveraging Quantum-Inspired Models for Periodicity
